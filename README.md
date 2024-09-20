@@ -1,2 +1,2 @@
 # About
-This Web-site was created as a school task. The goal was to create a simple Web-site and published it on a free hosting. That particular project was published on a free hosting [000WebHost.com](000Webhost.com). On 14<sup>th</sup> of the September 2024 the [papoloni.id.lv](papoloni.id.lv) was stopped.
+This website was created as a school assignment. The goal was to create a simple website and publish it on a free hosting site. That particular project was published on a free hosting site, [000WebHost.com](000Webhost.com). On the September 14<sup>th</sup>, 2024, [papoloni.id.lv](papoloni.id.lv) was discontinued.
